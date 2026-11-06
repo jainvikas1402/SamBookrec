@@ -90,7 +90,7 @@ faiss-cpu
 
 ## Dataset
 
-The application uses a CSV file containing book information.
+The application uses a CSV file containing book information. The default dataset includes 100 curated titles across productivity, psychology, finance, fiction, self-help, science, and classic literature, giving the recommender a much wider range of query matches.
 
 Location:
 
