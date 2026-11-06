@@ -1,4 +1,5 @@
 # SamBookrec
+Version 3.1
 
 # AI-Assisted Book Recommender
 
